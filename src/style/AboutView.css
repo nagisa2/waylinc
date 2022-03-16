@@ -1,0 +1,109 @@
+@media screen {
+ 
+    .aboutContainer {
+        height: 100%;
+        display: flex;
+    
+    }
+    
+    .txt h1{
+    
+        color: var(--primary-color);
+        text-align: center;
+        font-size: 1.9rem;
+        font-weight: 500;
+        padding: 10px;
+         
+    }
+    
+    .Card {
+        margin:15px;    
+        border-radius: 20px;
+        border: 2px solid blue;
+    }
+
+    .Card h3 {
+        font-size: 1rem;
+        padding:5px 0;
+    }
+
+    .Card h4 {
+        font-size: 1rem;
+        padding:5px 0;
+    }
+
+
+    .Card p {
+        font-size: 0.9rem;
+        padding: 5px 0;
+    }
+
+    .abtImg {
+        background-color: aquamarine;
+        border-radius: 20px 20px 0 0;
+        height: 150px;
+        width: 100%;
+    } 
+
+    .cardTxt {
+        padding: 10px 10px;
+    }
+
+}
+
+/* ipad/tablet */
+@media only screen and (min-width:48.0em){ 
+
+    
+    .aboutContainer {
+        border: 2px solid red;
+        height: 100%;
+        
+
+    }
+    
+    .txt h1{
+    
+        color: var(--primary-color);
+        text-align: center;
+        font-size: 1.9rem;
+        font-weight: 500;
+        padding: 10px;
+         
+    }
+    
+    .Card {
+        margin:15px;    
+        border-radius: 20px;
+        border: 2px solid blue;
+    }
+
+    .Card h3 {
+        font-size: 1rem;
+        padding:5px 0;
+    }
+
+    .Card h4 {
+        font-size: 1rem;
+        padding:5px 0;
+    }
+
+
+    .Card p {
+        font-size: 0.9rem;
+        padding: 5px 0;
+    }
+
+    .abtImg {
+        background-color: aquamarine;
+        border-radius: 20px 20px 0 0;
+        height: 150px;
+        width: 100%;
+    } 
+
+    .cardTxt {
+        padding: 10px 10px;
+    }
+
+}
+

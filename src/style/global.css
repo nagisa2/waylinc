@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Open+Sans:wght@400;500;600;700&display=swap');
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+    /* web color */
+    --bg-color:#FFFFFF;
+    --primary-color:#00AFEF;
+    --secondary-color:#ED3237;
+    --text-color:#1F2021;
+
+    /* font used */
+    --header-font:'Open Sans', sans-serif;
+    --body-font: 'Lato', sans-serif;
+}
+
+body {
+    background-color: var(--bg-color);
+    font-family: var(--body-font);
+    color: var(--text-color);
+    font-weight: 500;
+}
+
+h1, h2, h3 {
+    font-family: var(--header-font);
+}
+
+a {
+    text-decoration: none;
+}
+
+.app-config {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    
+}
+
+
+@media screen {}
+    
+/* ipad/tablet */
+@media only screen and (min-width:48.0em){ 
+}
+
+/* ipad pro screens & laptop */
+@media only screen and (min-width:49.0em) and (max-width:64em) {
+}
+
+/* large screens : Desktop and 4k screens */
+@media only screen and (min-width:64.063em) and (max-width:90.0em) {
+}
+
+/* 5k screens and above */
+@media only screen and (min-width:91.0em) {
+}

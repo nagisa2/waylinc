@@ -1,0 +1,247 @@
+
+@media screen {
+    .heroConfig {
+        display: flex;
+        flex-direction: column-reverse;
+        }
+
+    .heroTxt {
+        padding-left:10px;
+        margin: auto;
+    }
+    
+    .heroTxt h1 {
+        padding-bottom: 10px;
+        font-size: 1.8rem;
+        font-weight: 600;
+       
+    }
+    
+    .heroTxt p {
+        padding-bottom: 10px;
+        font-size: 1.2rem;
+        font-weight: 400;
+        
+        
+    }
+    
+    .heroTxt span {
+        color: var(--primary-color);
+    }
+    
+    .heroImg {
+        background-image: url(../assets/mercury130w.svg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        margin-left:10px;
+        height: 50vh;    
+      
+    }
+    
+    .heroBtn {
+        background-color: var(--primary-color);
+        color: var(--bg-color);
+        padding: 10px 30px;    
+        font-size: 1rem;
+        text-align:center;
+        cursor: pointer;
+        outline: none;
+        border: none;
+        background-size: 300% 100%;
+        -moz-transition: all .4s ease-in-out;
+        -o-transition: all .4s ease-in-out;
+        -webkit-transition: all .4s ease-in-out;
+        transition: all .4s ease-in-out;
+    
+    }
+    
+    .heroBtn:focus {
+        outline: none;
+    }
+    
+    .heroBtn:hover {
+        background-position: 100% 0;
+        -moz-transition: all .4s ease-in-out;
+        -o-transition: all .4s ease-in-out;
+        -webkit-transition: all .4s ease-in-out;
+        transition: all .4s ease-in-out;
+        background-image: linear-gradient(to right, #25aae1, #4481eb, #04befe, #3f86ed);
+        box-shadow: 0 4px 15px 0 rgba(65, 132, 234, 0.75);
+    
+    }
+    
+}
+
+/* ipad/tablet */
+@media only screen and (min-width:48.0em){ 
+
+    .heroTxt {
+        padding-left:15px;
+    }
+    
+    .heroTxt h1 {
+        padding-bottom: 15px;
+        font-size: 2.3rem;
+        font-weight: 600;
+       
+    }
+    
+    .heroTxt p {
+        padding-bottom: 15px;
+        font-size: 1.3rem;
+        font-weight: 400;
+    }
+    
+    .heroTxt span {
+        color: var(--primary-color);
+    }
+    
+ 
+    .heroBtn {
+        background-color: var(--primary-color);
+        color: var(--bg-color);
+        padding: 16px 60px;    
+        font-size: 1.2rem;
+    
+    }
+ 
+
+}
+
+
+/* ipad pro screens & laptop */
+@media only screen and (min-width:49.0em) and (max-width:64em) {
+    
+    .heroTxt {
+        padding-left:15px;
+    }
+    
+    .heroTxt h1 {
+        padding-bottom: 15px;
+        font-size: 2.4rem;
+        font-weight: 600;
+       
+    }
+    
+    .heroTxt p {
+        padding-bottom: 15px;
+        font-size: 1.5rem;
+        font-weight: 400;
+        
+        
+    }
+    
+    .heroTxt span {
+        color: var(--primary-color);
+    }
+    
+ 
+    .heroBtn {
+        background-color: var(--primary-color);
+        color: var(--bg-color);
+        padding: 15px 50px;    
+        font-size: 1.4rem;
+        text-align:center;
+    
+    }
+ 
+
+}
+
+
+
+/* large screens : Desktop and 4k screens */
+@media only screen and (min-width:64.063em) and (max-width:90.0em) {
+
+.heroConfig {
+
+    height: 93%;
+    display: flex;
+    flex-direction: row;
+  
+    }
+
+.hero {
+   flex: 50%;
+   
+}
+
+.heroTxt {
+    padding: 0 20px;
+    margin: auto;
+}
+
+.heroTxt h1 {
+    padding-bottom: 20px;
+    font-size: 2.7rem;
+    font-weight: 700;
+   
+}
+
+.heroTxt p {
+    padding-bottom: 20px;
+    font-size: 1.5rem;
+    
+}
+
+
+.heroImg {
+    height: auto;
+      
+  
+}
+
+.heroBtn {
+    padding: 20px 70px;    
+    font-size: 1.3rem;
+}
+
+}
+   /* 5k screens and above */
+@media only screen and (min-width:91.0em) {
+
+    .heroConfig {
+    
+        height: 93%;
+        display: flex;
+        flex-direction: row;
+      
+        }
+    
+    .hero {
+       flex: 50%;
+       
+    }
+    
+    .heroTxt {
+        padding: 0 20px;
+        margin: auto;
+    }
+    
+    .heroTxt h1 {
+        padding-bottom: 40px;
+        font-size: 4rem;
+        font-weight: 700;
+       
+    }
+    
+    .heroTxt p {
+        padding-bottom: 20px;
+        font-size: 2.8rem;
+        
+    }
+    
+    
+    .heroImg {
+        height: auto;
+          
+      
+    }
+    
+    .heroBtn {
+        padding: 40px 120px;    
+        font-size: 2.5rem;
+    }
+    
+    }
