@@ -2,7 +2,7 @@
 
     .approval {
     
-        height: 20vh;
+        height: 10vh;
         display: flex;
         margin-top: 30px;
         align-items: center;
@@ -44,6 +44,7 @@
 
     .approval {
         margin-top: 30px;
+        height: 20vh;
         
     }
     
@@ -66,6 +67,7 @@
 
     .approval {
         margin-top: 35px;
+        height: 20vh;
         
     }
     
@@ -87,6 +89,7 @@
 
     .approval {
         margin: 0;
+        height: 20vh;
         
     }
     
@@ -108,16 +111,17 @@
 
     .approval {
         margin: 0;
+        height: 20vh;
         
     }
     
     .approvalHead h1 {
-        font-size: 4rem;
+        font-size: 3rem;
         padding-bottom: 25px;
     }
     
     .approvalType {
-        font-size: 3rem; 
+        font-size: 2rem; 
     
     }
 

@@ -17,7 +17,7 @@
   <div>
     <Kra />
   </div>
-  <div>
+  <div class="aboutPage">
     <About />
   </div>
 </template>
