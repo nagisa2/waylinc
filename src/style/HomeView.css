@@ -1,5 +1,9 @@
 
 @media screen {
+    .home {
+        height: 100%;
+    }
+    
     .heroConfig {
         display: flex;
         flex-direction: column-reverse;
@@ -70,15 +74,6 @@
     
         background-image: linear-gradient(to right, #25aae1, #4481eb, #04befe, #3f86ed);
     }
-
-    .aboutPage {
-        display: flex;
-        height: auto;
-        margin:40px 0;
-        align-items: center;
-        justify-content: center;
-        
-    }
     
 }
 
@@ -91,14 +86,14 @@
     
     .heroTxt h1 {
         padding-bottom: 15px;
-        font-size: 2rem;
+        font-size: 2.2rem;
         font-weight: 600;
        
     }
     
     .heroTxt p {
         padding-bottom: 15px;
-        font-size: 1rem;
+        font-size: 1.5rem;
         font-weight: 100;
     }
     
@@ -111,7 +106,7 @@
         background-color: var(--primary-color);
         color: var(--bg-color);
         padding: 16px 60px;    
-        font-size: 1rem;
+        font-size: 1.2rem;
     
     }
  
@@ -130,14 +125,14 @@
     
     .heroTxt h1 {
         padding-bottom: 15px;
-        font-size: 2.2rem;
+        font-size: 2.4rem;
         font-weight: 600;
        
     }
     
     .heroTxt p {
-        padding-bottom: 15px;
-        font-size: 1.3rem;
+        padding-bottom: 20px;
+        font-size: 1.8rem;
         font-weight: 400;
         
         
@@ -151,8 +146,8 @@
     .heroBtn {
         background-color: var(--primary-color);
         color: var(--bg-color);
-        padding: 15px 50px;    
-        font-size: 1.2rem;
+        padding: 18px 60px;    
+        font-size: 1.4rem;
         text-align:center;
     
     }

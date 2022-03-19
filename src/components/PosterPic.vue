@@ -1,7 +1,10 @@
 <template>
-  <div>
-    <h1>hi</h1>
+  <div class="poster">
+    <div>
+      <img src="../assets/poster.svg" alt="waylinc poster" class="posterImg" />
+    </div>
   </div>
 </template>
-<script></script>
-<style></style>
+<style>
+@import "../style/PosterPic.css";
+</style>

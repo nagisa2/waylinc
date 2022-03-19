@@ -1,0 +1,271 @@
+
+@media screen {
+
+    .offerSection {
+        margin: 50px 20px;
+        height: 100%;
+    }
+    
+    .offerTitle {
+        width: 100%;
+        padding:10px;
+        display:flex;
+        align-items: center;
+        justify-content:center;
+        color: var(--primary-color);
+    }
+    
+    .offerCard {
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        border-radius: 10px;
+        margin: 30px 0;
+    }
+
+    .offerCard:hover {
+        transition: all .4s ease-in-out;
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    }
+    
+    .offerImg {
+        border-radius: 10px 10px 0 0;
+        object-position: center;
+        object-fit: contain;
+        height: 180px;
+        width: 100%;
+    }
+    
+    .offerTxt {
+        padding: 10px;
+        min-height: 150px ;
+    }
+
+    .offerTxt h1 {
+        padding: 2px 0;
+        font-size: 1.2rem;
+        font-weight:500;
+
+    }
+
+
+
+    .offerTxt p {
+        padding:4px 0;
+        font-weight: 100;
+        outline: none   
+    }
+
+    .offerTxt span {
+
+        color: var(--secondary-color);
+        padding-top: 10px;
+        font-size: 1rem;
+    }
+
+
+}
+
+/* ipad/tablet */
+@media only screen and (min-width:48.0em){ 
+
+    
+    .offerTitle {
+        font-size:1.6rem;
+    }
+    
+    .offerCard {
+        border-radius: 20px;
+        margin: 40px 0;
+    }
+
+    .offerImg {
+        border-radius: 20px 20px 0 0;
+        height: 250px;
+    }
+    
+    .offerTxt {
+        padding: 20px;
+        min-height: 230px ;
+    }
+
+    .offerTxt h1 {
+        padding: 4px 0;
+        font-size: 1.8rem;
+    }
+
+
+
+    .offerTxt p {
+        padding:10px 0;
+        font-size: 1.8rem;
+    }
+
+    .offerTxt span {
+
+        color: var(--secondary-color);
+        font-size: 1.7rem;
+    }
+
+}
+
+
+/* ipad pro screens & laptop */
+@media only screen and (min-width:49.0em) and (max-width:64em) {
+
+
+    .offerSection {
+        margin: 50px 30px;
+    }
+        
+    .offerTitle {
+        font-size:2rem;
+    }
+    
+    .offerCard {
+        border-radius: 20px;
+        margin: 50px 0;
+    }
+
+    .offerImg {
+        border-radius: 20px 20px 0 0;
+        height: 300px;
+    }
+    
+    .offerTxt {
+        padding: 30px;
+        min-height: 250px ;
+    }
+
+    .offerTxt h1 {
+        padding: 4px 0;
+        font-size: 2rem;
+    }
+
+
+
+    .offerTxt p {
+        padding:15px 0;
+        font-size: 1.9rem;
+    }
+
+    .offerTxt span {
+
+        color: var(--secondary-color);
+        font-size: 2rem;
+    }
+}
+
+/* large screens : Desktop and 4k screens */
+@media only screen and (min-width:64.063em) and (max-width:90.0em) {
+
+
+    .offerSection {
+        margin: 100px 100px;
+
+    }
+
+            
+    .offerTitle {
+        font-size: 1.6rem;
+        padding-bottom: 50px;
+    }
+
+    .offerContainer {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+      
+    }
+    
+    .offerCard {
+        border-radius: 20px;
+        width: 40%;
+    }
+
+    .offerImg {
+        border-radius: 20px 20px 0 0;
+        height: 300px;
+    }
+    
+    .offerTxt {
+        padding: 30px;
+        min-height: 230px ;
+    }
+
+    .offerTxt h1 {
+        padding: 4px 0;
+        font-size: 1.4rem;
+    }
+
+
+
+    .offerTxt p {
+        padding:10px 0;
+        font-size: 1.5rem;
+    }
+
+    .offerTxt span {
+
+        color: var(--secondary-color);
+        font-size: 1.4rem;
+    }
+
+}
+
+/* 5k screens and above */
+@media only screen and (min-width:91.0em) {
+
+
+    
+    .offerSection {
+        margin: 100px 200px;
+
+    }
+
+            
+    .offerTitle {
+        font-size: 1.7rem;
+        padding-bottom: 50px;
+    }
+
+    .offerContainer {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    
+    .offerCard {
+        border-radius: 20px;
+        width: 40%;
+    }
+
+    .offerImg {
+        border-radius: 20px 20px 0 0;
+        height: 300px;
+    }
+    
+    .offerTxt {
+        padding: 30px;
+        min-height: 230px ;
+    }
+
+    .offerTxt h1 {
+        padding: 4px 0;
+        font-size: 1.4rem;
+    }
+
+
+
+    .offerTxt p {
+        padding:10px 0;
+        font-size: 1.5rem;
+    }
+
+    .offerTxt span {
+
+        color: var(--secondary-color);
+        font-size: 1.4rem;
+    }
+
+
+}
+

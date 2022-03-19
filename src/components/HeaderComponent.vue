@@ -2,7 +2,9 @@
   <div class="header-cfg">
     <div class="header">
       <div class="logo">
-        <img src="../assets/logo.svg" alt="logo" class="logoImg" />
+        <a href="/"
+          ><img src="../assets/logo.svg" alt="logo" class="logoImg"
+        /></a>
       </div>
       <div class="link">
         <RouterLink to="/" class="nav-link">Home</RouterLink>

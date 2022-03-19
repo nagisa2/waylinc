@@ -7,10 +7,15 @@
     margin: 0;
 
     /* web color */
+    
     --bg-color:#FFFFFF;
+    --text-color:#1F2021;
+    --bg-color2: #f2f0f1;
     --primary-color:#00AFEF;
     --secondary-color:#ED3237;
-    --text-color:#1F2021;
+    --productColor: #4d4b4c;
+   
+    
 
     /* font used */
     --header-font:'Open Sans', sans-serif;
@@ -30,6 +35,8 @@ h1, h2, h3 {
 
 a {
     text-decoration: none;
+    outline: none;
+    border:none;
 }
 
 .app-config {
