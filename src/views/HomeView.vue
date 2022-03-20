@@ -12,7 +12,12 @@
           road,
           <span> Floor 4, shop E18 </span>, Come grab some for yourself
         </p>
-        <button class="heroBtn">Learn more</button>
+        <button class="heroBtn">
+          <a
+            href="https://wa.me/254721107590?text=Hi carol, iam intrested in buying Etr am from your website"
+            >Learn more</a
+          >
+        </button>
       </div>
       <div class="hero heroImg"></div>
     </div>

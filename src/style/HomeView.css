@@ -59,6 +59,10 @@
         transition: all .4s ease-in-out;
     
     }
+
+    .heroBtn a {
+        color: var(--bg-color);
+    }
     
     .heroBtn:focus {
         outline: none;
