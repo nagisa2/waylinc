@@ -30,12 +30,12 @@
         <div class="cardTxt">
           <h3>Annual Maintenance contract</h3>
           <p>
-            This is where machines are serveice after a period of one year. We
+            This is where machines are service after a period of one year. We
             offer this service at 10% the initial cost
           </p>
           <h4>Benefits</h4>
           <p>
-            Ensures that the mashine is functionable for another period of one
+            Ensures that the machine is functionable for another period of one
             year and also helps in taking care of any other technical problem
           </p>
         </div>
@@ -43,10 +43,10 @@
       <div class="card shadow">
         <img src="../assets/upgrade.jpg" class="cardImg" alt="upgrade" />
         <div class="cardTxt">
-          <h3>ETR Mashine Upgrade</h3>
+          <h3>ETR Machine Upgrade</h3>
           <p>
-            We provide all the requirments fot new Tims compliant & Etr Mashine
-            uppgrade
+            We provide all the requirments for new Tims compliant & Etr Machine
+            upgrade
           </p>
           <h4>Uses</h4>
           <p>
