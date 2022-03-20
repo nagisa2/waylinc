@@ -2,17 +2,61 @@
     .poster {
         display: flex;
         flex-wrap: wrap;
-        border: 2px solid red;
+        margin: 0 20px;
+        justify-content:center;
+        align-items: center;
     }
 
     .posterImg {
         display: flex;
         width: 100%;
-        height: 500px;
-        border: 5px solid var(--primary-color);
-        background-color: var(--primary-color);
-        object-fit: cover;
+        height: 100%;
+        object-fit: contain;
         object-position: center;
+        margin: 20px 0;
 
     }
+
+
+}
+
+/* large screens : Desktop and 4k screens */
+@media only screen and (min-width:64.063em) and (max-width:90.0em) {
+
+    .poster {
+        margin: 30px 50px;
+        padding: 100px 0;
+      
+    }
+
+    .posterImg {
+
+        width: 40%;
+        height: 650px;
+   
+        object-fit: contain;
+        margin: 30px;
+
+    }
+}
+
+/* 5k screens and above */
+@media only screen and (min-width:91.0em) {
+
+    .poster {
+        margin: 30px 50px;
+        padding: 100px 0;
+      
+    }
+
+    .posterImg {
+
+        width: 40%;
+        height: 650px;
+   
+        object-fit: contain;
+        margin: 30px;
+
+    }
+
 }

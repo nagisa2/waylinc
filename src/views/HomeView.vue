@@ -28,12 +28,16 @@
     <div>
       <Poster />
     </div>
+    <div>
+      <Contact />
+    </div>
   </div>
 </template>
 <script setup>
 import Poster from "../components/PosterPic.vue";
 import Kra from "../components/KraApproved.vue";
 import Product from "../views/ProductView.vue";
+import Contact from "../views/ContactView.vue";
 import About from "../views/AboutView.vue";
 </script>
 <style>

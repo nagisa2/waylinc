@@ -16,7 +16,10 @@
             Used by business that dont use any softwares, companies that do it
             manually
           </p>
-          <a href=""><span>learn more</span></a>
+          <a
+            href="https://wa.me/254721107590?text=Hi carol, iam intrested in buying Etr machines, iam from your website"
+            ><span>learn more</span></a
+          >
         </div>
       </div>
       <div class="offerCard">
@@ -24,7 +27,10 @@
         <div class="offerTxt">
           <h1>Fiscal printers</h1>
           <p>Used by business that prefer the POS systems</p>
-          <a href=""><span>learn more</span></a>
+          <a
+            href="https://wa.me/254721107590  ?text=Hi carol, iam intrested in buying Fiscal printer, iam from your website"
+            ><span>learn more</span></a
+          >
         </div>
       </div>
       <div class="offerCard">
@@ -36,7 +42,10 @@
         <div class="offerTxt">
           <h1>ESD machines</h1>
           <p>Used by business and companies that use the billing systems</p>
-          <a href=""><span>Learn more</span></a>
+          <a
+            href="https://wa.me/254721107590?text=Hi carol, iam intrested in buying ESD machines, iam from your website"
+            ><span>Learn more</span></a
+          >
         </div>
       </div>
     </div>

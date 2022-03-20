@@ -1,8 +1,7 @@
 <template>
   <div class="poster">
-    <div>
-      <img src="../assets/poster.svg" alt="waylinc poster" class="posterImg" />
-    </div>
+    <img src="../assets/Poster.jpg" alt="waylinc poster" class="posterImg" />
+    <img src="../assets/Poster2.jpg" alt="waylinc poster" class="posterImg two" />
   </div>
 </template>
 <style>
