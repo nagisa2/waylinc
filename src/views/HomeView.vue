@@ -3,8 +3,8 @@
     <div class="heroConfig">
       <div class="hero heroTxt">
         <h1>
-          New Type ‘A’ Tims comliant Etr machines, sales , services, programming
-          and repairs
+          New Type ‘A’ Tims compliant Etr machines, sales , services,
+          programming and repairs
         </h1>
         <p>
           High quality, affordable er machines for sale with the best
