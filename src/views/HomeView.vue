@@ -7,7 +7,7 @@
           programming and repairs
         </h1>
         <p>
-          High quality, affordable er machines for sale with the best
+          High quality, affordable Etr machines for sale with the best
           perfomance, efficiency and low voltage consumption, located at munyu
           road,
           <span> Floor 4, shop E18 </span>, Come grab some for yourself
