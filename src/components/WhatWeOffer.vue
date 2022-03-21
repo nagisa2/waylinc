@@ -13,7 +13,7 @@
         <div class="offerTxt">
           <h1>ETR machines</h1>
           <p>
-            Used by business that dont use any softwares, companies that do it
+            Used by businesses that dont use any softwares, companies that do it
             manually
           </p>
           <a
@@ -26,7 +26,7 @@
         <img src="../assets/fiscalPrinter.svg" class="offerImg" />
         <div class="offerTxt">
           <h1>Fiscal printers</h1>
-          <p>Used by business that prefer the POS systems</p>
+          <p>Used by businesses that prefer the POS systems</p>
           <a
             href="https://wa.me/254721107590  ?text=Hi carol, iam intrested in buying Fiscal printer, iam from your website"
             ><span>learn more</span></a
@@ -41,7 +41,7 @@
         />
         <div class="offerTxt">
           <h1>ESD machines</h1>
-          <p>Used by business and companies that use the billing systems</p>
+          <p>Used by businesses and companies that use the billing systems</p>
           <a
             href="https://wa.me/254721107590?text=Hi carol, iam intrested in buying ESD machines, iam from your website"
             ><span>Learn more</span></a

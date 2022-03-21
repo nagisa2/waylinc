@@ -67,7 +67,7 @@
           alt="thermol roll"
         />
         <div class="otherTxt">
-          <h1>Thermol rolls</h1>
+          <h1>Thermol rolls in all sizes</h1>
           <p></p>
         </div>
       </div>

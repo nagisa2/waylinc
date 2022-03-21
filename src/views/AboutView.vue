@@ -6,7 +6,7 @@
         <h1>What we are about</h1>
       </div>
       <div class="card shadow">
-        <img src="../assets/Tims.jpg" class="cardImg" alt="Tims" />
+        <img src="../assets/aclasCbrx.svg" class="cardImg" alt="Tims" />
         <div class="cardTxt">
           <h3>Tax Invoice Management System(TIMS)</h3>
           <p>

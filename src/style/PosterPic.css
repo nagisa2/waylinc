@@ -26,6 +26,7 @@
     .poster {
         margin: 30px 50px;
         padding: 100px 0;
+     
       
     }
 
@@ -33,9 +34,8 @@
 
         width: 40%;
         height: 650px;
-   
-        object-fit: contain;
         margin: 30px;
+        object-fit: contain; 
 
     }
 }
