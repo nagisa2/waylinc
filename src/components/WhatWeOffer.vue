@@ -33,6 +33,17 @@
           >
         </div>
       </div>
+       <div class="offerCard">
+        <img src="../assets/incotex2.png" class="offerImg" />
+        <div class="offerTxt">
+          <h1>Incotex 300SM</h1>
+          <p>Prints receipts and intergrates them to kra servers</p>
+          <a
+            href="https://wa.me/254721107590  ?text=Hi carol, iam intrested in buying Fiscal printer, iam from your website"
+            ><span>learn more</span></a
+          >
+        </div>
+      </div>
       <div class="offerCard">
         <img
           src="../assets/esdMachine.svg"

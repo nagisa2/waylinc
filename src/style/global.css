@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Open+Sans:wght@400;500;600;700&display=swap');
+@media screen {
+
+    @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Open+Sans:wght@400;500;600;700&display=swap');
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -50,8 +52,7 @@ a {
     
 }
 
-
-@media screen {}
+}
     
 /* ipad/tablet */
 @media only screen and (min-width:48.0em){ 
@@ -68,3 +69,6 @@ a {
 /* 5k screens and above */
 @media only screen and (min-width:91.0em) {
 }
+
+/* landscape */
+@media all and (orientation: landscape) {}

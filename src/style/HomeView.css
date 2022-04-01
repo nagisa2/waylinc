@@ -257,3 +257,15 @@
     }
     
     }
+
+    /* landscape */
+@media all and (orientation: landscape) {
+
+       
+    .heroTxt h1 {
+        padding-bottom: 40px;
+        font-size: 2rem;
+        font-weight: 500;
+       
+    }
+}

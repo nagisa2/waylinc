@@ -32,6 +32,24 @@
         </div>
       </div>
       <div class="otherContainer">
+        <img src="../assets/incotex.png" class="otherImg" alt="android pos" />
+        <div class="otherTxt">
+          <h1>Incotex 600</h1>
+          <p>Specifications</p>
+          <li>HS codes are supported</li>
+          <li>Communicates with a PC via USB/ETHERNET</li>
+          <li>Build-in GSM module with WIFI connectivity</li>
+          <li>Generates a control code uniquely for each invoice</li>
+          <li>
+            Designed to be connected to an existing traders through intergration
+          </li>
+          <li>
+            Perfoms the function of tax invoice validation,
+            encrption,signing,transmission and storage
+          </li>
+        </div>
+      </div>
+      <div class="otherContainer">
         <img
           src="../assets/desktopPhone.svg"
           class="otherImg"
@@ -57,6 +75,17 @@
         />
         <div class="otherTxt">
           <h1>Thermol printer</h1>
+          <p></p>
+        </div>
+      </div>
+      <div class="otherContainer">
+        <img
+          src="../assets/FiscalPrinter.jpeg"
+          class="otherImg"
+          alt="thermol roll"
+        />
+        <div class="otherTxt">
+          <h1>Incotex 300SM</h1>
           <p></p>
         </div>
       </div>
