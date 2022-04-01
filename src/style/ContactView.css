@@ -322,6 +322,7 @@
         .footer {
     
             padding-bottom: 20px;
+            margin: 0;
         }
     
         .footer span {
@@ -411,7 +412,10 @@
     .footer {
 
         padding-bottom: 20px;
+        margin: 0;
+
     }
+
 
     .footer span {
         font-size: 1rem;
